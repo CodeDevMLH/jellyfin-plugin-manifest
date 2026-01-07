@@ -3,8 +3,6 @@
 
 ## Installation
 
-This plugin is based on Jellyfin Version `10.11.x`
-
 1.  Open your **Jellyfin Dashboard**.
 2.  Navigate to **Plugins** > **Repositories**.
 3.  Click the **+** button to add a new repository.
