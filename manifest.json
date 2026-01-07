@@ -73,7 +73,7 @@
     "overview": "Media Bar for Jellyfin",
     "owner": "CodeDevMLH",
     "category": "General",
-    "imageUrl": "",
+    "imageUrl": "https://raw.githubusercontent.com/CodeDevMLH/jellyfin-plugin-media-bar-enhanced/refs/heads/main/logo.png",
     "versions": [
       {
         "version": "1.0.0.0",
