@@ -9,6 +9,14 @@
     "imageUrl": "https://raw.githubusercontent.com/CodeDevMLH/Jellyfin-Seasonals/refs/heads/main/logo.png",
     "versions": [
       {
+        "version": "3.0.0.1",
+        "changelog": "feat: Add new styling for client-side settings and admin page\n- feat: Add localization support for client-side settings (English, German, Spanish, French, Italian)\n- feat: Add option to move client-side settings to the sidebar",
+        "targetAbi": "10.11.0.0",
+        "sourceUrl": "https://github.com/CodeDevMLH/Jellyfin-Seasonals/releases/download/v3.0.0.1/Jellyfin.Plugin.Seasonals.zip",
+        "checksum": "a7c367d5feded03574d47c4ab216e5e4",
+        "timestamp": "2026-06-22T00:33:33Z"
+      },
+      {
         "version": "3.0.0.0",
         "changelog": "feat: Add new styling for client-side settings and admin page\n- feat: Add localization support for client-side settings (English, German, Spanish, French, Italian)\n- feat: Add option to move client-side settings to the sidebar",
         "targetAbi": "10.11.0.0",
