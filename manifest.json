@@ -228,6 +228,22 @@
     "imageUrl": "https://raw.githubusercontent.com/CodeDevMLH/jellyfin-plugin-media-bar-enhanced/refs/heads/main/logo.png",
     "versions": [
       {
+        "version": "3.2.0.0",
+        "changelog": "- feat: Add SponsorBlock categories configuration\n- fix: Improve fetching of excluded libraries (update views URL to include CollectionFolder type for user-specific items)\n- feat: Support Jellyfin 12.0 layout changes\n- fix: Adjust container positioning to work in both 10.11.11 and 12.0 layouts",
+        "targetAbi": "12.0.0.0",
+        "sourceUrl": "https://github.com/CodeDevMLH/jellyfin-plugin-media-bar-enhanced/releases/download/v3.2.0.0/Jellyfin.Plugin.MediaBarEnhanced.zip",
+        "checksum": "d18787d915d5457f103a08706d21970d",
+        "timestamp": "2026-07-17T00:48:46Z"
+      },
+      {
+        "version": "3.2.0.0",
+        "changelog": "- feat: Add SponsorBlock categories configuration\n- fix: Improve fetching of excluded libraries (update views URL to include CollectionFolder type for user-specific items)\n- feat: Support Jellyfin 12.0 layout changes\n- fix: Adjust container positioning to work in both 10.11.11 and 12.0 layouts",
+        "targetAbi": "10.11.0.0",
+        "sourceUrl": "https://github.com/CodeDevMLH/jellyfin-plugin-media-bar-enhanced/releases/download/v3.2.0.0/Jellyfin.Plugin.MediaBarEnhanced.zip",
+        "checksum": "d18787d915d5457f103a08706d21970d",
+        "timestamp": "2026-07-17T00:48:46Z"
+      },
+      {
         "version": "3.1.0.0",
         "changelog": "- feat: Add Yo-Yo progress bar option\n- feat: Add Local Trailers Only option\n- fix: Improve handling of excluded libraries in media bar logic",
         "targetAbi": "10.11.0.0",
@@ -282,14 +298,6 @@
         "sourceUrl": "https://github.com/CodeDevMLH/jellyfin-plugin-media-bar-enhanced/releases/download/v2.0.3.0/Jellyfin.Plugin.MediaBarEnhanced.zip",
         "checksum": "8108c856bcbdaf50eeb9918822a5409f",
         "timestamp": "2026-05-10T00:37:54Z"
-      },
-      {
-        "version": "2.0.0.0",
-        "changelog": "- feat: implement genre/tag filtering in custom id's\n- optimize video backdrop logic and SponsorBlock integration",
-        "targetAbi": "10.11.0.0",
-        "sourceUrl": "https://github.com/CodeDevMLH/jellyfin-plugin-media-bar-enhanced/releases/download/v2.0.0.0/Jellyfin.Plugin.MediaBarEnhanced.zip",
-        "checksum": "a0c479779aa6ae94c33002b81da1a17b",
-        "timestamp": "2026-05-09T21:10:58Z"
       },
       {
         "version": "1.9.8.0",
@@ -365,7 +373,7 @@
       },
       {
         "version": "1.8.0.0",
-        "changelog": "feat: add custom text/image overlay option\n- feat: add option to disable pagination dots/counter\n- feat: add exclude seasonal content from random fetching option\n- Add hide arrows on mobile option \n- fix button issue on mobile when using ElegantFin Theme",
+        "changelog": "- feat: add custom text/image overlay option\n- feat: add option to disable pagination dots/counter\n- feat: add exclude seasonal content from random fetching option\n- Add hide arrows on mobile option \n- fix button issue on mobile when using ElegantFin Theme",
         "targetAbi": "10.11.0.0",
         "sourceUrl": "https://github.com/CodeDevMLH/jellyfin-plugin-media-bar-enhanced/releases/download/v1.8.0.0/Jellyfin.Plugin.MediaBarEnhanced.zip",
         "checksum": "4e4c1aa15d03e25e4900294fa7a62974",
@@ -442,14 +450,6 @@
         "sourceUrl": "https://github.com/CodeDevMLH/jellyfin-plugin-media-bar-enhanced/releases/download/v1.5.1.2/Jellyfin.Plugin.MediaBarEnhanced.zip",
         "checksum": "0c1fe94cc32f1a228c8ed82435d36743",
         "timestamp": "2026-02-10T20:23:23Z"
-      },
-      {
-        "version": "1.5.1.1",
-        "changelog": "fix layout issue",
-        "targetAbi": "10.11.0.0",
-        "sourceUrl": "https://github.com/CodeDevMLH/jellyfin-plugin-media-bar-enhanced/releases/download/v1.5.1.1/Jellyfin.Plugin.MediaBarEnhanced.zip",
-        "checksum": "7ce1623e88a4ea2c1c4a5450b03ca0a1",
-        "timestamp": "2026-02-10T17:05:57Z"
       },
       {
         "version": "1.5.1.0",
